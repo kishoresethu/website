@@ -1,2 +1,2 @@
-From hashar/webapp
+From training/webapp
 Add . /var/www/html
