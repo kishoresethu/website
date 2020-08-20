@@ -1,2 +1,2 @@
-From hashar/webapp
-Add . /var/www/html
+From nginx
+Add . usr/share/nginx/html
